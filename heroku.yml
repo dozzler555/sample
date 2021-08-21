@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  woker: bash start.sh
+  woker: echo "Hello World"
