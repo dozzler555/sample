@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  woker: echo "Hello World"
+  worker: echo "Hello World"
