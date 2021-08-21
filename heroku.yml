@@ -2,4 +2,4 @@ build:
   docker:
     web: Dockerfile
 run:
-  worker: echo "Hello World"
+  worker: echo damn
